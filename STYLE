@@ -1,0 +1,20 @@
+<html>
+<body>
+<h1>VENDAS DE DROGAS </h1>
+<p>10 POR 5 E 3 POR 1 FAÇA SEU PEDIDO AGORA COM FRETE GRATIS PRA TODO BRASIL </p>
+<main>
+    <form>
+        <label>MACONHA </label>
+        <input>
+       
+        <label>CRAQUE </label>
+        <input>
+        <label></label>
+        <input>
+        <label>COCAINA </label>
+        <input>
+        <input type="submit">
+    </form>
+</main>
+</body>
+</html>
